@@ -1,1 +1,1 @@
-# Prodigy-TASK-05
+# I imported the US accident dataset and performed data preprocessing to clean and prepare the data. I then created a scatter plot to visualize the geographical distribution of traffic accidents, mapping them based on their starting longitude and latitude.
